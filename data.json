@@ -1,0 +1,53 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
+      "name": "Diego Fernandes",
+      "email": "thiagoalves060@gmail.com",
+      "birth": 659750400000,
+      "gender": "M",
+      "blood": "O1",
+      "weight": "78",
+      "height": "188",
+      "id": 1
+    }
+  ],
+  "instructors": [
+    {
+      "id": 15,
+      "name": "Daiane",
+      "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
+      "birth": 334108800000,
+      "gender": "F",
+      "services": "Dança, Musica",
+      "created_at": 1597111931435
+    },
+    {
+      "id": 16,
+      "name": "THIAGO A DA SILVA",
+      "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
+      "birth": 28598400000,
+      "gender": "M",
+      "services": "Musculação",
+      "created_at": 1597111931435
+    },
+    {
+      "id": 10,
+      "name": "Daiane",
+      "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
+      "birth": 659750400000,
+      "gender": "M",
+      "services": "Musculação, Croosfit",
+      "created_at": 1597111931435
+    },
+    {
+      "id": 4,
+      "name": "Vitor Teles",
+      "avatar_url": "https://source.unsplash.com/collection/3465564/500x500",
+      "birth": 1009843200000,
+      "gender": "M",
+      "services": "Musculação",
+      "created_at": 1597264215523
+    }
+  ]
+}
